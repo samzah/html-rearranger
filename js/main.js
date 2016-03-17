@@ -14,4 +14,3 @@ $('ul li').each(function () {
     $aboveUl.append($(this));
   }
 });
-
